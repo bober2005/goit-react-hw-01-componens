@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import noAvatar from '../../images/noavatar.svg';
+import noAvatar from '../../images/anime-cartoon-boy-people-png-design-5691442.svg';
 import styles from '../FriendListItem/FriendListItem.module.css';
 
 const FriendListItem = ({ avatar, name, isOnline }) => (
